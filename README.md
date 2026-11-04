@@ -11,7 +11,7 @@ Web sitesi, masallara kolay ulaşılabilmesi ve kullanıcıların sade, anlaşı
 
 ## Nasıl Kullanılır?
 
-1. `1. `bir varmış bir yokmuş.html` dosyasını indirin.
+1. `1.bir varmış bir yokmuş.html` dosyasını indirin.
 2. Dosyaya çift tıklayarak bir web tarayıcısında açın.
 3. Ana sayfadan masal kitaplığına geçin.
 4. Arama alanına istediğiniz masalın adını yazın veya bir masal kartındaki **Özeti Oku** düğmesine tıklayın.
