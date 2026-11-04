@@ -1,6 +1,6 @@
 # Vize Ödevi
 Programlamaya Giriş Vize Ödevi
-# 🍎 Bir Varmış Bir Yokmuş
+#  Bir Varmış Bir Yokmuş
 **Programlamaya Giriş Dersi — Vize Projesi**
 
 ## Proje Hakkında
