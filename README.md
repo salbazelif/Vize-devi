@@ -1,2 +1,2 @@
-# Vize-devi
+# Vize Ödevi
 Programlamaya Giriş Vize Ödevi
